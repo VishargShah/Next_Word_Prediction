@@ -1,0 +1,5 @@
+> corpus_summary
+   source size_in_Mb   lines    words
+1   blogs     200.42  899288 37546246
+2    news     196.28 1010242 34762395
+3 twitter     159.36 2360149 30093411
